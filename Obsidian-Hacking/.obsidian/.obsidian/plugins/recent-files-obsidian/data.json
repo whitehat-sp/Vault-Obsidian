@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "HELLO-WORLD",
+      "path": "HELLO-WORLD.canvas"
+    },
+    {
+      "basename": "☠️LFI - Local FIle Inclusion",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️LFI - Local FIle Inclusion.md"
+    },
+    {
+      "basename": "☠️Business Logic",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️Business Logic.md"
+    },
+    {
+      "basename": "☠️File Path Transversal",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️File Path Transversal.md"
+    },
+    {
+      "basename": "☠️RCE - Remote Command Execution",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️RCE - Remote Command Execution.md"
+    },
+    {
+      "basename": "☠️RFI - Remote File Inclusion",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️RFI - Remote File Inclusion.md"
+    },
+    {
+      "basename": "☠️SSRF - Server Side Request Forgery",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️SSRF - Server Side Request Forgery.md"
+    },
+    {
+      "basename": "☠️SSTI - Server Side Template Injection",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️SSTI - Server Side Template Injection.md"
+    },
+    {
+      "basename": "☠️XSS - Cross Site Scripting",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/☠️XSS - Cross Site Scripting.md"
+    },
+    {
+      "basename": "SQLMAP",
+      "path": "🟫HERRAMIENTAS/SQL-ATTACK/SQLMAP.md"
+    },
+    {
+      "basename": "POST-EXPLOTATION",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/POST-EXPLOTATION.md"
+    },
+    {
+      "basename": "☠️SQL Injection-General",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/☠️SQL Injection-General.md"
+    },
+    {
+      "basename": "Attack",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Attack.md"
+    },
+    {
+      "basename": "Oracle",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Oracle.md"
+    },
+    {
+      "basename": "Mysql",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Mysql.md"
+    },
+    {
+      "basename": "Postgresql",
+      "path": "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Postgresql.md"
+    },
+    {
+      "basename": "UCME",
+      "path": "🟫HERRAMIENTAS/UCME-WINDOWS-USES/UCME.md"
+    },
+    {
+      "basename": "UACME-USES-TOKENS",
+      "path": "🟫HERRAMIENTAS/UCME-WINDOWS-USES/UACME-USES-TOKENS.md"
+    },
+    {
+      "basename": "☠️ REVERSHELL",
+      "path": "☠️REVERSHELL/☠️ REVERSHELL.md"
+    },
+    {
+      "basename": "☠️PAYLOAD-BURPSITE",
+      "path": "🟧BURPSITE-WEB/ATTACKS/☠️PAYLOAD-BURPSITE.md"
+    },
+    {
+      "basename": "Burpsite",
+      "path": "🟩RECURSOS-HACKING/DOCU-LABS/Burpsite.md"
+    },
+    {
+      "basename": "HACKTHEBOX",
+      "path": "🟩RECURSOS-HACKING/DOCU-LABS/HACKTHEBOX.md"
+    },
+    {
+      "basename": "HACKTRICKS",
+      "path": "🟩RECURSOS-HACKING/Documentacion/HACKTRICKS.md"
+    },
+    {
+      "basename": "PAYLOADS",
+      "path": "🟩RECURSOS-HACKING/Repositorios/PAYLOADS.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-HARD",
+      "path": "⭐OSCP/MACHINES/🟪 TRYHACKME/🖥️LIST-MACHINE-HARD.md"
+    },
+    {
+      "basename": "🖥️ Nmap-Main",
+      "path": "🟫 Nmap/🖥️ Nmap-Main.md"
+    },
+    {
+      "basename": "BURPSUITE",
+      "path": "🟧BURPSITE-WEB/BURPSUITE.md"
+    },
+    {
+      "basename": "❌No Iniciada",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/❌No Iniciada.md"
+    },
+    {
+      "basename": "❌No Iniciada",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/❌No Iniciada.md"
+    },
+    {
+      "basename": "MACHINES-TRYHACKME-EJPT",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/MACHINES-TRYHACKME-EJPT.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-MEDIUM",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/🖥️LIST-MACHINE-MEDIUM.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-HARD",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/🖥️LIST-MACHINE-HARD.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-EASY",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/🖥️LIST-MACHINE-EASY.md"
+    },
+    {
+      "basename": "✅ Done",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/✅ Done.md"
+    },
+    {
+      "basename": "⏳ En Proceso",
+      "path": "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/⏳ En Proceso.md"
+    },
+    {
+      "basename": "✅ Done",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/✅ Done.md"
+    },
+    {
+      "basename": "⏳ En Proceso",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/⏳ En Proceso.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-MEDIUM",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/🖥️LIST-MACHINE-MEDIUM.md"
+    },
+    {
+      "basename": "MACHINES-HTB-EJPT",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/MACHINES-HTB-EJPT.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-HARD",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/🖥️LIST-MACHINE-HARD.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/HARD/Untitled.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-EASY",
+      "path": "⭐EJTP/MACHINES/🟩 HTB-EJPT/🖥️LIST-MACHINE-EASY.md"
+    },
+    {
+      "basename": "EJPT",
+      "path": "⭐EJTP/EJPT.md"
+    },
+    {
+      "basename": "OSCP",
+      "path": "⭐OSCP/OSCP.md"
+    },
+    {
+      "basename": "MACHINES-TRYHACKME",
+      "path": "⭐OSCP/MACHINES/🟪 TRYHACKME/MACHINES-TRYHACKME.md"
+    },
+    {
+      "basename": "MACHINES-HTB",
+      "path": "⭐OSCP/MACHINES/🟩 HTB/MACHINES-HTB.md"
+    },
+    {
+      "basename": "MACHINES-OFFSEC",
+      "path": "⭐OSCP/MACHINES/🟦 OFFSEC/MACHINES-OFFSEC.md"
+    },
+    {
+      "basename": "🖥️LIST-MACHINE-EASY",
+      "path": "⭐OSCP/MACHINES/🟦 OFFSEC/🖥️LIST-MACHINE-EASY.md"
+    },
+    {
+      "basename": "PAWNED MACHINE",
+      "path": "⭐OSCP/MACHINES/PAWNED MACHINE.md"
+    },
+    {
+      "basename": "00-REPOSITORY- HERRAMIENTAS",
+      "path": "🟫HERRAMIENTAS/00-REPOSITORY- HERRAMIENTAS.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

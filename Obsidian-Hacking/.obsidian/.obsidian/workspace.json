@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HELLO-WORLD.canvas",
+                "viewState": {
+                  "x": -685,
+                  "y": -468.5,
+                  "zoom": -0.1865643422008212
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HELLO-WORLD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3e7ebdb51627290",
+    "type": "split",
+    "children": [
+      {
+        "id": "3533f955a4e7a512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3883a24c8a18343f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fedfc29d452ff670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Column",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a235795b2f5086f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d9dc9b2a889519e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72c6392cf256e6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3382fd72124298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213d4af5ed10f113",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Herramientas/HYDRA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HYDRA"
+            }
+          },
+          {
+            "id": "293af69f95eef75e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Herramientas/HYDRA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HYDRA"
+            }
+          },
+          {
+            "id": "06e73ea87c2c5708",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf01eb5d764e70eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Herramientas/HYDRA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HYDRA"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "HELLO-WORLD.canvas",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️LFI - Local FIle Inclusion.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️Business Logic.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️File Path Transversal.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️RCE - Remote Command Execution.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️RFI - Remote File Inclusion.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️SSRF - Server Side Request Forgery.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️SSTI - Server Side Template Injection.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/☠️XSS - Cross Site Scripting.md",
+    "🟫HERRAMIENTAS/SQL-ATTACK/SQLMAP.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/POST-EXPLOTATION.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/☠️SQL Injection-General.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Attack.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Oracle.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Mysql.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection/Postgresql.md",
+    "🟧BURPSITE-WEB/VULNERABILIDADES/SQL Injection",
+    "🟫HERRAMIENTAS/UCME-WINDOWS-USES/UCME.md",
+    "🟫HERRAMIENTAS/UCME-WINDOWS-USES/UACME-USES-TOKENS.md",
+    "☠️REVERSHELL/☠️ REVERSHELL.md",
+    "☠️REVERSHELL",
+    "🟧BURPSITE-WEB/ATTACKS/☠️PAYLOAD-BURPSITE.md",
+    "🟩RECURSOS-HACKING/DOCU-LABS/Burpsite.md",
+    "().md",
+    "🟩RECURSOS-HACKING/DOCU-LABS/HACKTHEBOX.md",
+    "🟩RECURSOS-HACKING/DOCU-LABS",
+    "🟩RECURSOS-HACKING/Documentacion/HACKTRICKS.md",
+    "🟩RECURSOS-HACKING/Repositorios/PAYLOADS.md",
+    "🟩RECURSOS-HACKING/Documentacion",
+    "🟩RECURSOS-HACKING/Repositorios",
+    "🟩RECURSOS-HACKING",
+    "⭐OSCP/MACHINES/🟪 TRYHACKME/🖥️LIST-MACHINE-HARD.md",
+    "images.jpg",
+    "⭐EJTP/MACHINES",
+    "🟧BURPSITE-WEB/ATTACKS",
+    "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/MEDIUM",
+    "⭐EJTP/MACHINES/🟪 TRYHACKME-EJPT/HARD",
+    "images.png",
+    "Pasted image 20251123181638.png",
+    "Pasted image 20251123181607.png",
+    "Pasted image 20251123181540.png",
+    "Pasted image 20251123162748.png",
+    "Pasted image 20251123171607.png",
+    "Pasted image 20251123164318.png",
+    "Hydra/Hydra-tool.png",
+    "Pasted image 20250216131135.png",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

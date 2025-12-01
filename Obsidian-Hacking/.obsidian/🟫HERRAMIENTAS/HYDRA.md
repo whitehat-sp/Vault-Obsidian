@@ -1,0 +1,49 @@
+Herramienta utilizada para realizara fuera bruta usando diferentes diccionarios y sobre los protocolos que permite la herramienta
+
+Supported services:
+-> adam6500 
+-> asterisk cisco 
+-> cisco-enable 
+-> cobaltstrike 
+-> cvs firebird 
+-> ftp/s http/s]-{head|get|post} 
+-> http[s]-{get|post}-form 
+-> http-proxy 
+-> http-proxy-urlenum 
+-> icq imap[s] 
+-> irc ldap2[s] 
+-> ldap3[-{cram|digest}md5][s] 
+-> memcached 
+-> mongodb 
+-> mssql 
+-> mysql 
+-> nntp 
+-> oracle-listener 
+-> oracle-sid 
+-> pcanywhere 
+-> pcnfs 
+-> pop3[s] 
+-> postgres 
+-> radmin2 
+-> rdp 
+-> redis 
+-> rexec 
+-> rlogin 
+-> rpcap 
+-> rsh 
+-> rtsp 
+-> s7-300 
+-> sip 
+-> smb 
+-> smtp[s] 
+-> smtp-enum 
+-> snmp 
+-> socks5 
+-> ssh 
+-> sshkey 
+-> svn 
+-> teamspeak 
+-> telnet[s] 
+-> vmauthd 
+-> vnc 
+-> xmp

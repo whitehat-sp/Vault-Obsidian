@@ -1,0 +1,8 @@
+```dataview
+table machine, Dificultad, Fecha-Creacion
+from "EJPT/MACHINES/HTB"
+where Plataforma = "HTB" and status = "No Iniciada ❌"
+sort owned_date desc
+```
+
+	

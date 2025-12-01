@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"192ee62bc2f8e89b","type":"text","text":"# CERTS\n[[EJPT]]\n[[OSCP]]","x":-1260,"y":-615,"width":440,"height":140,"color":"3"},
+		{"id":"e449dd062448e24b","type":"text","text":"# RECURSOS\nDiscord\nGitHub\nHackTheBox\nTryHackMe\n","x":-1260,"y":-455,"width":440,"height":180,"color":"5"},
+		{"id":"c6713cc1f368903a","type":"text","text":"![[Pasted image 20251123171607.png]]","x":-1250,"y":-945,"width":420,"height":300,"color":"#fafafa"},
+		{"id":"cdcf288f07042676","type":"text","text":"","x":-1260,"y":-245,"width":1150,"height":270},
+		{"id":"88408d82acc80986","type":"text","text":"# RESUME MACHINES","x":-760,"y":-962,"width":600,"height":687,"color":"6"},
+		{"id":"8e6bf934230be67b","type":"file","file":"⭐OSCP/MACHINES/🟩 HTB/⏳ En Proceso.md","x":-730,"y":-877,"width":540,"height":164,"color":"1"},
+		{"id":"ce2aba16f95130fb","type":"file","file":"Pasted image 20251123181638.png","x":-280,"y":-391,"width":120,"height":116,"color":"6"},
+		{"id":"5c7f05fbf1b4a181","type":"text","text":"# DONE\n```dataview\ntable machine, Fecha\nfrom \"OSCP/MACHINES/HTB\"\nwhere Plataforma = \"HTB\" and status = \"Done\"\nsort owned_date desc\nlimit 1\n```","x":-730,"y":-665,"width":540,"height":190,"color":"4"}
+	],
+	"edges":[
+		{"id":"c0b0d60334516c15","fromNode":"c6713cc1f368903a","fromSide":"bottom","toNode":"192ee62bc2f8e89b","toSide":"top"}
+	]
+}

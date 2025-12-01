@@ -1,0 +1,10 @@
+- Creamos el backdoor usando **msfvenom**
+- Configuramos el modulo multi/handler con los datos y puertos (el mismo usado al momento del crear el payload) y ejecutamos
+- Previamente o después en otra tab, necesitaremos tener acceso a la maquina y subir el archivo
+	- Creamos alguna carpeta en el sistema (a ser posible C:\)
+	- Usando el comando 'upload' , subiremos los archivos
+	- El ejecutable necesario para ese momento (ej: Akagi) sera usado sobre el backdoor (payload)
+ - En este momento el mutihandler, habre recibido conexion mediante una revershell
+ - Revisamos los procesos activos en la maquina con 'ps'
+ - Migramos de proceso con -> migrate [ID con permisos de NT AUTORITHY SYSTEM]
+ - Finalmente estaremos ejecutando nuestra revershell un proceso con permisos de sistema
